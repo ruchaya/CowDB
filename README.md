@@ -20,7 +20,7 @@ author = "Alexey Ruchay and Vitaly Kober and Konstantin Dorofeev and Vladimir Ko
 
 The created database contains RGB-D data and manual measurements for 154 Hereford cattle, and is open and accessible to the research community.
 
-Data from 154 cattle were collected on August 15th, 2019. Hereford cattle belonged to a private farm in the Nizhny Novgorod region, Russia. The remarkable characteristics of the breed are uniformity of color, early maturity and ability to thrive under adverse conditions. On the day of data collection, all selected cows were gathered at the feed fences in a separate area for manual body measurements and image recording. Nine body measurements were manually taken by an expert using ordinary measuring either tape or stick and recorded in centimeters.
+Data from 154 cattle were collected. Hereford cattle belonged to a private farm in the Nizhny Novgorod region, Russia. The remarkable characteristics of the breed are uniformity of color, early maturity and ability to thrive under adverse conditions. On the day of data collection, all selected cows were gathered at the feed fences in a separate area for manual body measurements and image recording. Nine body measurements were manually taken by an expert using ordinary measuring either tape or stick and recorded in centimeters.
 
 The estimated body measurements were as follows:
 •	Withers height: vertical distance from the highest point of the shoulder (withers) to the ground surface at the level of the forelegs.
